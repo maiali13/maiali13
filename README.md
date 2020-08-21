@@ -21,9 +21,13 @@ Welcome to my humble abode in the digital world! :octocat: I am a data scientist
 
 
 ### 📈 GitHub Stats
-<img align="left" src="https://github-readme-hellorusk.vercel.app/api?username=maiali13&hide_title=true&show_icons=true&theme=vue&hide=stars" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiali13&layout=compact&theme=vue" />
-<a href="https://badges.pufler.dev">
+<a>
+  <img align="center" src="https://github-readme-hellorusk.vercel.app/api?username=maiali13&hide_title=true&show_icons=true&theme=vue&hide=stars" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiali13&layout=compact&theme=vue" />
+</a>
+<a>
   <img src="https://badges.pufler.dev/visits/maiali13/maiali13?style=flat-square&color=2bbc8a&logo=github">
- </a>
+</a>
 
