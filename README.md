@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey, Miriam here! 👋
 
-<!--
-**maiali13/maiali13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 
-Here are some ideas to get you started:
+Welcome to my humble abode in the digital world! :octocat: I am a data scientist, data vizualization nerd, and machine learning padawan from San Francisco, California. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me on LinkedIn:
+[![Linkedin Badge](https://img.shields.io/badge/-miriam-ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miriam-ali/)](https://www.linkedin.com/in/miriam-ali/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
+
+
+
+### 📈 GitHub Stats
+<img align="center" src="https://github-readme-hellorusk.vercel.app/api?username=maiali13&hide_title=true&show_icons=true&theme=vue" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiali13&layout=compact&theme=vue" />
+![](https://komarev.com/ghpvc/?username=maiali1&color=brightgreen)
