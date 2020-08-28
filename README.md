@@ -22,7 +22,7 @@ Welcome to my humble abode in the digital world! :octocat: I am a data scientist
 
 ### 📈 GitHub Stats
 <a>
-  <img align="center" src="https://github-readme-hellorusk.vercel.app/api?username=maiali13&hide_title=true&show_icons=true&theme=vue&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maiali13&hide_title=true&show_icons=true&theme=vue&hide=stars" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiali13&layout=compact&theme=vue" />
