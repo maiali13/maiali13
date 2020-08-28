@@ -1,6 +1,7 @@
 ## Hey, Miriam here! <img src="https://raw.githubusercontent.com/maiali13/maiali13/master/wave.gif" width="30px">
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white&color=2bbc8a)](https://en.wikipedia.org/wiki/Homo_sapiens)
+[![Pronouns](https://img.shields.io/badge/Pronouns-She,They-success?style=flat-square&logo=iconify&logoColor=white&color=2bbc8a)](https://emilhvitfeldt.github.io/genderify/)
 
 Welcome to my humble abode in the digital world! :octocat: I am a data scientist, machine learning padawan, and hobby naturalist from San Francisco, California. I am always open to collaborating on projects and innovative/disruptive ideas. 😃 Find out more about me & feel free to connect with me here:
 
