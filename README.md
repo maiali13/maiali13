@@ -7,7 +7,7 @@ Welcome to my humble abode in the digital world! :octocat: I am a data scientist
 
 [![](https://img.shields.io/badge/-miriamali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miriam-ali/)](https://www.linkedin.com/in/miriam-ali/)
 [![](https://img.shields.io/badge/-miriamaali@outlook.com-a0d8f3?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:miriamaali@outlook.com)](mailto:miriamaali@outlook.com)
-[![](https://img.shields.io/badge/-resume-6897bb?style=flat-square&logo=when-i-work&logoColor=white&link=https://drive.google.com/file/d/1-yYvLrWxc2gPUSv0xOh-gTfwvt3rSzap/view?usp=sharing)](https://drive.google.com/file/d/1-yYvLrWxc2gPUSv0xOh-gTfwvt3rSzap/view?usp=sharing)
+[![](https://img.shields.io/badge/-resume-6897bb?style=flat-square&logo=when-i-work&logoColor=white&link=https://drive.google.com/file/d/1LVeO1358Sz8cQstJwY8Iz-w5-toj7wff/view?usp=sharing)](https://drive.google.com/file/d/1LVeO1358Sz8cQstJwY8Iz-w5-toj7wff/view?usp=sharing)
 
 
 ### 🔧 Technologies & Tools
